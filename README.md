@@ -26,7 +26,7 @@ Installation steps are necessary so go through each step to do so
 Commands would be good please
 ```
 
-## Testing
+## Running Tests
 
 Small summary of the kind of testing that exists in this repository 
 
@@ -62,7 +62,7 @@ Here is how you run unit tests :-P
 Yes, more commands, this is the real deal now
 ```
 
-## Deployment
+## How To Deploy
 
 Omg foreals, I have to do deployment notes too??? Yep...
 
@@ -78,17 +78,11 @@ It's always nice to have some diagrams that will help show the high level design
 
 Sometimes is nice to tell people to go to another documentation :-( to make sure this readme doesn't get too long. So might as well create a contribution guidline markdown file and link it here. [CONTRIBUTING.md](https://github.com/meroware) this will help you know the rules of how to contribute.
 
-## Versioning
-
-Why not add some information about how the repo is versioned, 
-
-[SemVer](http://semver.org/) is used for versioning
-
-## Authors
+## Code Owners
 
 * **Some dude that wants credit** - *Yep I did the whole project, no one helped. Sigh.. I'm joking it was a team effort* - [Here is my profile](https://github.com/meroware)
 
-It is probs best to just have a code owners setup. Checkout [Setup code owners in github repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners)
+It is best to just have a code owners setup. Checkout [Setup code owners in github repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners)
 
 ## License
 
